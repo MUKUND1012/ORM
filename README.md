@@ -30,3 +30,4 @@ Insert the following five food orders into the database.
 |      4 | Divya         | Pizza        |        1 |       125 | No           |
 |      5 | Sanjay        | French Fries |        2 |       160 | No           |
 
+![alt text](<Screenshot 2026-10-23 104230.png>)
